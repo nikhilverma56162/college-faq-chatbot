@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "tag": "admission",
+      "patterns": [
+        "how to apply",
+        "admission process",
+        "can i get admission"
+      ],
+      "responses": [
+        "You need to fill the online admission form and upload documents.",
+        "Admission is based on merit list released on the website."
+      ]
+    },
+    {
+      "tag": "fees",
+      "patterns": [
+        "what is the fees",
+        "fees for bca",
+        "total tuition fee"
+      ],
+      "responses": [
+        "For most courses the fee is around 50k per year.",
+        "You can also pay fees semester wise."
+      ]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "which courses are available",
+        "do you have btech",
+        "courses offered"
+      ],
+      "responses": [
+        "We have BCA, BBA, B.Tech and MBA.",
+        "Computer science and management courses are popular here."
+      ]
+    }
+  ]
+}
