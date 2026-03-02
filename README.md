@@ -1,31 +1,31 @@
-# 🎓 College FAQ Chatbot
+#  College FAQ Chatbot
 
 An AI-based chatbot that answers common college-related questions.
 
-## 📌 Features
+##  Features
 - Answers queries about admission, fees and courses
 - Built using TF-IDF and cosine similarity
 - Simple and interactive UI with Streamlit
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - Scikit-learn
 - Streamlit
 - NLP
 
-## ▶️ How to Run Locally
+##  How to Run Locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📷 Example Questions
+##  Example Questions
 - What is the fees?
 - How to apply?
 - Courses offered?
 
-## 📚 Future Improvements
+##  Future Improvements
 - Add database support
 - Deploy online
 - Improve UI
